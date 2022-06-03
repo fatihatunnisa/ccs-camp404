@@ -1,0 +1,23 @@
+ul{
+    list-style-type: none;
+    overflow: auto;
+}
+li {
+    float: left;
+    display: block;
+    color: teal;
+    font-weight: bold;
+    font-size: 10px;
+    text-align: center;
+    padding: 21px 45px 25px 45px;
+    margin: 0px 40px;
+}
+li:hover{
+    color:yellow;
+}
+.navbar{
+    background-color: black;
+}
+#companyname{
+    font-size: 25px;
+}
